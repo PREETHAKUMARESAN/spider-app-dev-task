@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="countView" type="id">textview</item>
+    <item name="incrButt" type="id">increment</item>
+    <item name="aboutMenu" type="id">menu</item>
+</resources>
